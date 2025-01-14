@@ -1,5 +1,6 @@
 MERN-client/node_modules/
 MERN-server/node_modules/
+node_modules
 # git status                    # Check changes
 # git add .                     # Stage all changes
 # git commit -m "Your message"  # Commit changes
